@@ -31,7 +31,7 @@ const posts = [
     author: {
       avatarUrl: 'https://github.com/bezalelmiranda.png',
       name: 'Bezalel Miranda',
-      role: 'FullStack Developer @ksys'
+      role: 'FullStack Developer @ksys Sistemas'
     },
     content: [
       {type: 'paragraph', content: 'Fala galeraa 👋'},
